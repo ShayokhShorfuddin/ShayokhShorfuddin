@@ -1,3 +1,5 @@
+![sprint logo](https://user-images.githubusercontent.com/56217851/194691883-ecab9742-bb0c-4e85-85a1-2de52140387b.png)
+
 <h1 align="center">Hey there!, I'm Shayokh Shorfuddin! 😀</h1>
 <h3 align="center">Just yet another Python developer. Working on my own language Sprint.</h3>
 
