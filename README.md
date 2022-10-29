@@ -1,8 +1,6 @@
 <h1 align="center">Hey there!, I'm Shayokh Shorfuddin! 😀</h1>
 <h3 align="center">Just yet another Python developer. Working on my own language Sprint.</h3>
 
-- 🔭 I’m currently working on [Sprint](https://github.com/ShayokhShorfuddin/Sprint)
-
 - 🌱 I’m currently learning **FastAPI**
 
 <h3 align="left">Connect with me:</h3>
