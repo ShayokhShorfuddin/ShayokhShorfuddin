@@ -10,6 +10,6 @@ Anyway, I am also capable of building mobile applications using React Native ⚛
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,py,html,css,js,nodejs,npm,pnpm,git,github,obsidian,bootstrap,md,jquery," />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,redux,py,html,css,sass,js,nodejs,npm,pnpm,git,github,obsidian,vercel,bootstrap,md,jquery,selenium" />
   </a>
 </p>
