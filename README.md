@@ -8,8 +8,8 @@ I never fail to admire a modern, sleek UI and find it delightful to paint them o
 
 Anyway, I am also capable of building mobile applications using React Native ⚛️ However, front-end web development is my comfy zone. 
 
-<p align="center">
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,redux,py,html,css,sass,js,nodejs,npm,pnpm,vite,windows,vscode,git,github,obsidian,vercel,bootstrap,md,jquery,selenium" />
   </a>
-</p>
+</div>
