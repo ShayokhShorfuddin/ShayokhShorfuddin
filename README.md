@@ -7,3 +7,9 @@ I love checking out brand-new techs/frameworks and studying optimization techniq
 I never fail to admire a modern, sleek UI and find it delightful to paint them on the blank canvas of browsers. Who knows? Someday, I might end up being a UI Designer alongside a front-end developer. 😅
 
 Anyway, I am also capable of building mobile applications using React Native ⚛️ However, front-end web development is my comfy zone. 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,git,github,bootstrap" />
+  </a>
+</p>
