@@ -1,4 +1,4 @@
-![LinkedIn Banner 2](https://github.com/user-attachments/assets/22d17cea-9840-4b43-95a7-0d140c23a7e0)
+![LinkedIn Banner](https://github.com/user-attachments/assets/db42cdaf-77e4-4a8b-b85c-dcf6b126c113)
 
 Hello there! 👋 I am Shayokh, a front-end web developer on a mission to build a better, accessible web for everyone. 🌍
 
