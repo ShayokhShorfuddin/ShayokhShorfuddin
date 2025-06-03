@@ -10,7 +10,7 @@ Anyway, I am also capable of building mobile applications using React Native ⚛
 
 Wait a sec, did I mention that I know Morse code?
 
--•-- --- ••- / •- •-• • / •- •-- • ••• --- -- • -•-•--
+.... . .-.. .-.. ---
 
 <div>
   <a href="https://skillicons.dev">
