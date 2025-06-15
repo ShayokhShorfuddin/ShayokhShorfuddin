@@ -4,8 +4,7 @@ Hello there! I am Shayokh, a front-end web developer on a mission to build a bet
 
 I love checking out brand-new techs/frameworks and studying optimization techniques. Mostly comfortable with NextJs 15, React, Tailwind CSS, Typescript, Sass, and a few more..
 
-I never fail to admire a modern, sleek UI and find it delightful to paint them on the blank canvas of browsers. Anyway, I am also capable of building mobile applications using React Native. However, front-end web development is my comfy zone.
-
+I never fail to admire a modern, sleek UI and find it delightful to paint them on the blank canvas of browsers.
 Wait a sec, did I mention that I know Morse code?
 
 .... . .-.. .-.. ---
