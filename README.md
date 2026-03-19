@@ -11,6 +11,6 @@ Wait a sec, did I mention that I know Morse code?
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,redux,html,css,sass,js,nodejs,rust,npm,pnpm,vite,py,linux,vscode,git,github,obsidian,vercel,bootstrap,md,jquery,selenium" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,redux,html,css,sass,js,nodejs,rust,npm,pnpm,vite,py,linux,vscode,git,github,bootstrap,md" />
   </a>
 </div>
